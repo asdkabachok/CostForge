@@ -349,7 +349,3 @@ on old hardware) but is worth stating plainly rather than hiding.
   using CostForge's section layout decisions
 - **Cost Model Validation**: compile with and without CostForge,
   benchmark both, auto-adjust correction factors
-
-## License
-
-MIT
